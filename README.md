@@ -2,9 +2,9 @@
 
 ## Dashboard
 
-[Click here to view the live Dashboard!](https://matin-n-vacation-weather-dashboard-streamlit-app-k4h6j7.streamlitapp.com/)
+[Click here to view the live Dashboard!](https://weather.streamlitapp.com)
 
-[![dashboard.png](dashboard.png)](https://matin-n-vacation-weather-dashboard-streamlit-app-k4h6j7.streamlitapp.com/)
+[![dashboard.png](dashboard.png)](https://weather.streamlitapp.com/)
 
 ## Purpose
 
